@@ -1,9 +1,10 @@
-Name of Project: Git For Pairs Lesson
+Name of Project: Super Awesome Project
 
-Description: Doing Git for pairs
-things with 
+Description: This will be the best project ever
 
-User Stories: A bunch of features
-and things
+User Stories: 
+
 List Collaborators: 
-Meg and Dani
+
+- Meg 
+
