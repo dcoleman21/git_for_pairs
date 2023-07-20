@@ -1,3 +1,7 @@
-This is the beginning of this project
+Name of Project: 
 
-Let's add a template here that we can fill out as we go. 
+Description: 
+
+User Stories: 
+
+List Collaborators: 
