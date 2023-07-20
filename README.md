@@ -1,7 +1,9 @@
-Name of Project: 
+Name of Project: Git For Pairs Lesson
 
-Description: 
+Description: Doing Git for pairs
+things with 
 
-User Stories: 
-
+User Stories: A bunch of features
+and things
 List Collaborators: 
+Meg and Dani
