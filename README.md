@@ -1,13 +1,10 @@
-Name of Project: 
+Name of Project: Super Awesome Project
 
-- Super Awesome Project
-
-Description: 
-
-- This will be the best project ever
+Description: This will be the best project ever
 
 User Stories: 
 
 List Collaborators: 
 
 - Meg 
+
